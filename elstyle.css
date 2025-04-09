@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(169, 230, 230);
+}
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    color: #fa10c7;
+    font-size: 3em;   
+}
+
+p {
+    font-family: Verdana;
+    font-size: 0.9em;
+    color: rgb(10, 6, 6);
+}
+
+.ingress {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 1.2em;
+}
